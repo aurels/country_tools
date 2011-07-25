@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = "0.1"
   s.date = "2011-07-25"
   
-  s.authors = ["Aurélien Malisart"]
+  s.authors = ["Aurelien Malisart"]
   s.email = "aurelien.malisart@gmail.com"
   
   s.require_paths = ["lib"]
