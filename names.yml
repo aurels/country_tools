@@ -1,0 +1,760 @@
+AF:
+  fr: Afghanistan
+  en: Afghanistan
+  es: Afganistán
+AL:
+  fr: Albanie
+  en: Albania
+  es: Albania
+DZ:
+  fr: Algérie
+  en: Algeria
+  es: Argelia
+AD:
+  fr: Andorre
+  en: Andorra
+  es: Andorra
+AO:
+  fr: Angola
+  en: Angola
+  es: Angola
+AG:
+  fr: Antigua-et-Barbuda
+  en: Antigua and Barbuda
+  es: Antigua y Barbuda
+AR:
+  fr: Argentine
+  en: Argentina
+  es: Argentina
+AM:
+  fr: Arménie
+  en: Armenia
+  es: Armenia
+AU:
+  fr: Australie
+  en: Australia
+  es: Australia
+AT:
+  fr: Autriche
+  en: Austria
+  es: Austria
+AZ:
+  fr: Azerbaïdjan
+  en: Azerbaijan
+  es: Azerbaiyán
+BS:
+  fr: Bahamas
+  en: Bahamas
+  es: Bahamas
+BH:
+  fr: Bahreïn
+  en: Bahrain
+  es: Bahrein
+BD:
+  fr: Bangladesh
+  en: Bangladesh
+  es: Bangladesh
+BB:
+  fr: Barbade
+  en: Barbados
+  es: Barbados
+BY:
+  fr: Biélorussie
+  en: Belarus
+  es: Belarús
+BE:
+  fr: Belgique
+  en: Belgium
+  es: Bélgica
+BZ:
+  fr: Belize
+  en: Belize
+  es: Belice
+BJ:
+  fr: Bénin
+  en: Benin
+  es: Benin
+BT:
+  fr: Bhoutan
+  en: Bhutan
+  es: Bhután
+BO:
+  fr: Bolivie
+  en: Bolivia
+  es: Bolivia
+BA:
+  fr: Bosnie-Herzégovine
+  en: Bosnia and Herzegovina
+  es: Bosnia y Herzegovina
+BW:
+  fr: Botswana
+  en: Botswana
+  es: Botswana
+BR:
+  fr: Brésil
+  en: Brazil
+  es: Brasil
+BN:
+  fr: Brunei
+  en: Brunei
+  es: Brunei
+BG:
+  fr: Bulgarie
+  en: Bulgaria
+  es: Bulgaria
+BF:
+  fr: Burkina
+  en: Burkina
+  es: Burkina
+MM:
+  fr: Birmanie
+  en: Burma
+  es: Birmania
+BI:
+  fr: Burundi
+  en: Burundi
+  es: Burundi
+KH:
+  fr: Cambodge
+  en: Cambodia
+  es: Camboya
+CM:
+  fr: Cameroun
+  en: Cameroon
+  es: Camerún
+CA:
+  fr: Canada
+  en: Canada
+  es: Canadá
+CV:
+  fr: Cap-Vert
+  en: Cape Verde
+  es: Cabo Verde
+CF:
+  fr: République centrafricaine
+  en: Central African Republic
+  es: República Centroafricana
+TD:
+  fr: Tchad
+  en: Chad
+  es: Chad
+CL:
+  fr: Chili
+  en: Chile
+  es: Chile
+CN:
+  fr: Chine
+  en: China
+  es: China
+CO:
+  fr: Colombie
+  en: Colombia
+  es: Colombia
+KM:
+  fr: Comores
+  en: Comoros
+  es: Comoras
+CG:
+  fr: Congo
+  en: Congo
+  es: Congo
+CK:
+  fr: Cook (les Îles)
+  en: Cook Islands
+  es: Cook (las Islas)
+CR:
+  fr: Costa Rica
+  en: Costa Rica
+  es: Costa Rica
+HR:
+  fr: Croatie
+  en: Croatia
+  es: Croacia
+CU:
+  fr: Cuba
+  en: Cuba
+  es: Cuba
+CY:
+  fr: Chypre
+  en: Cyprus
+  es: Chipre
+CZ:
+  fr: République tchèque
+  en: Czech Republic
+  es: República Checa
+DK:
+  fr: Danemark
+  en: Denmark
+  es: Dinamarca
+DJ:
+  fr: Djibouti
+  en: Djibouti
+  es: Djibouti
+DM:
+  fr: Dominique
+  en: Dominica
+  es: Dominica
+DO:
+  fr: République dominicaine
+  en: Dominican Republic
+  es: República Dominicana
+EC:
+  fr: Équateur
+  en: Ecuador
+  es: Ecuador
+EG:
+  fr: Égypte
+  en: Egypt
+  es: Egipto
+SV:
+  fr: Salvador
+  en: El Salvador
+  es: El Salvador
+GQ:
+  fr: Guinée équatoriale
+  en: Equatorial Guinea
+  es: Guinea Ecuatorial
+ER:
+  fr: Érythrée
+  en: Eritrea
+  es: Eritrea
+EE:
+  fr: Estonie
+  en: Estonia
+  es: Estonia
+ET:
+  fr: Éthiopie
+  en: Ethiopia
+  es: Etiopía
+FJ:
+  fr: Fidji
+  en: Fiji
+  es: Fiji
+FI:
+  fr: Finlande
+  en: Finland
+  es: Finlandia
+FR:
+  fr: France
+  en: France
+  es: Francia
+GA:
+  fr: Gabon
+  en: Gabon
+  es: Gabón
+GM:
+  fr: Gambie
+  en: Gambia
+  es: Gambia
+GE:
+  fr: Géorgie
+  en: Georgia
+  es: Georgia
+DE:
+  fr: Allemagne
+  en: Germany
+  es: Alemania
+GH:
+  fr: Ghana
+  en: Ghana
+  es: Ghana
+GR:
+  fr: Grèce
+  en: Greece
+  es: Grecia
+GD:
+  fr: Grenade
+  en: Grenada
+  es: Granada
+GT:
+  fr: Guatemala
+  en: Guatemala
+  es: Guatemala
+GN:
+  fr: Guinée
+  en: Guinea
+  es: Guinea
+GW:
+  fr: Guinée-Bissao
+  en: Guinea-Bissau
+  es: Guinea-Bissau
+GY:
+  fr: Guyana
+  en: Guyana
+  es: Guyana
+HT:
+  fr: Haïti
+  en: Haiti
+  es: Haití
+VA:
+  fr: Saint-Siège (le)
+  en: Holy See
+  es: Santa Sede
+HN:
+  fr: Honduras
+  en: Honduras
+  es: Honduras
+HU:
+  fr: Hongrie
+  en: Hungary
+  es: Hungría
+IS:
+  fr: Islande
+  en: Iceland
+  es: Islandia
+IN:
+  fr: Inde
+  en: India
+  es: India
+ID:
+  fr: Indonésie
+  en: Indonesia
+  es: Indonesia
+IR:
+  fr: Iran
+  en: Iran
+  es: Irán
+IQ:
+  fr: Iraq
+  en: Iraq
+  es: Iraq
+IE:
+  fr: Irlande
+  en: Ireland
+  es: Irlanda
+IL:
+  fr: Israël
+  en: Israel
+  es: Israel
+IT:
+  fr: Italie
+  en: Italy
+  es: Italia
+CI:
+  fr: Côte d'Ivoire
+  en: Ivory Coast
+  es: Costa de Marfil
+JM:
+  fr: Jamaïque
+  en: Jamaica
+  es: Jamaica
+JP:
+  fr: Japon
+  en: Japan
+  es: Japón
+JO:
+  fr: Jordanie
+  en: Jordan
+  es: Jordania
+KZ:
+  fr: Kazakhstan
+  en: Kazakhstan
+  es: Kazajstán
+KE:
+  fr: Kenya
+  en: Kenya
+  es: Kenia
+KI:
+  fr: Kiribati
+  en: Kiribati
+  es: Kiribati
+KW:
+  fr: Koweït
+  en: Kuwait
+  es: Kuwait
+KG:
+  fr: Kirghizistan
+  en: Kyrgyzstan
+  es: Kirguistán
+LA:
+  fr: Laos
+  en: Laos
+  es: Laos
+LV:
+  fr: Lettonie
+  en: Latvia
+  es: Letonia
+LB:
+  fr: Liban
+  en: Lebanon
+  es: Líbano
+LS:
+  fr: Lesotho
+  en: Lesotho
+  es: Lesotho
+LR:
+  fr: Liberia
+  en: Liberia
+  es: Liberia
+LY:
+  fr: Libye
+  en: Libya
+  es: Libia
+LI:
+  fr: Liechtenstein
+  en: Liechtenstein
+  es: Liechtenstein
+LT:
+  fr: Lituanie
+  en: Lithuania
+  es: Lituania
+LU:
+  fr: Luxembourg
+  en: Luxembourg
+  es: Luxemburgo
+MK:
+  fr: Macédoine
+  en: Macedonia
+  es: Macedonia
+MG:
+  fr: Madagascar
+  en: Madagascar
+  es: Madagascar
+MW:
+  fr: Malawi
+  en: Malawi
+  es: Malawi
+MY:
+  fr: Malaisie
+  en: Malaysia
+  es: Malasia
+MV:
+  fr: Maldives
+  en: Maldives
+  es: Maldivas
+ML:
+  fr: Mali
+  en: Mali
+  es: Malí
+MT:
+  fr: Malte
+  en: Malta
+  es: Malta
+MH:
+  fr: Marshall (les Îles)
+  en: Marshall Islands
+  es: Marshall (las Islas)
+MR:
+  fr: Mauritanie
+  en: Mauritania
+  es: Mauritania
+MU:
+  fr: Maurice
+  en: Mauritius
+  es: Mauricio
+MX:
+  fr: Mexique
+  en: Mexico
+  es: Méjico
+FM:
+  fr: Micronésie
+  en: Micronesia
+  es: Micronesia
+MD:
+  fr: Moldavie
+  en: Moldova
+  es: Moldova
+MC:
+  fr: Monaco
+  en: Monaco
+  es: Mónaco
+MN:
+  fr: Mongolie
+  en: Mongolia
+  es: Mongolia
+MA:
+  fr: Maroc
+  en: Morocco
+  es: Marruecos
+MZ:
+  fr: Mozambique
+  en: Mozambique
+  es: Mozambique
+NA:
+  fr: Namibie
+  en: Namibia
+  es: Namibia
+NR:
+  fr: Nauru
+  en: Nauru
+  es: Nauru
+NP:
+  fr: Népal
+  en: Nepal
+  es: Nepal
+NL:
+  fr: Pays-Bas
+  en: Netherlands
+  es: Países Bajos
+NZ:
+  fr: Nouvelle-Zélande
+  en: New Zealand
+  es: Nueva Zelandia
+NI:
+  fr: Nicaragua
+  en: Nicaragua
+  es: Nicaragua
+NE:
+  fr: Niger
+  en: Niger
+  es: Níger
+NG:
+  fr: Nigeria
+  en: Nigeria
+  es: Nigeria
+NU:
+  fr: Niue
+  en: Niue
+  es: Niue
+KR:
+  fr: Corée du Nord
+  en: North Korea
+  es: Corea del Norte
+NO:
+  fr: Norvège
+  en: Norway
+  es: Noruega
+OM:
+  fr: Oman
+  en: Oman
+  es: Omán
+PK:
+  fr: Pakistan
+  en: Pakistan
+  es: Pakistán
+PW:
+  fr: Les Palaos
+  en: Palau
+  es: Palau
+PG:
+  fr: Papouasie - Nouvelle Guinée
+  en: Papua New Guinea
+  es: Papua Nueva Guinea
+PY:
+  fr: Paraguay
+  en: Paraguay
+  es: Paraguay
+PE:
+  fr: Pérou
+  en: Peru
+  es: Perú
+PH:
+  fr: Philippines
+  en: Philippines
+  es: Filipinas
+PL:
+  fr: Pologne
+  en: Poland
+  es: Polonia
+PT:
+  fr: Portugal
+  en: Portugal
+  es: Portugal
+QA:
+  fr: Qatar
+  en: Qatar
+  es: Qatar
+RO:
+  fr: Roumanie
+  en: Romania
+  es: Rumania
+RU:
+  fr: Russie
+  en: Russia
+  es: Rusia
+RW:
+  fr: Rwanda
+  en: Rwanda
+  es: Ruanda
+KN:
+  fr: Saint-Christophe-et-Niévès
+  en: Saint Kitts and Nevis
+  es: San Cristóbal
+LC:
+  fr: Sainte-Lucie
+  en: Saint Lucia
+  es: Santa Lucía
+VC:
+  fr: Saint-Vincent-et-les Grenadines
+  en: Saint Vincent and the Grenadines
+  es: San Vicente y las Granadinas
+SM:
+  fr: Saint-Marin
+  en: San Marino
+  es: San Marino
+ST:
+  fr: Sao Tomé-et-Principe
+  en: Sao Tome and Principe
+  es: Santo Tomé yPríncipe
+SA:
+  fr: Arabie saoudite
+  en: Saudi Arabia
+  es: Arabia Saudita
+SN:
+  fr: Sénégal
+  en: Senegal
+  es: Senegal
+SC:
+  fr: Seychelles
+  en: Seychelles
+  es: Seychelles
+SL:
+  fr: Sierra Leone
+  en: Sierra Leone
+  es: Sierra Leona
+SG:
+  fr: Singapour
+  en: Singapore
+  es: Singapur
+SK:
+  fr: Slovaquie
+  en: Slovakia
+  es: Eslovaquia
+SI:
+  fr: Slovénie
+  en: Slovenia
+  es: Eslovenia
+SB:
+  fr: Salomon (les Îles)
+  en: Solomon Islands
+  es: Salomón (las Islas)
+SO:
+  fr: Somalie
+  en: Somalia
+  es: Somalia
+ZA:
+  fr: Afrique du Sud
+  en: South Africa
+  es: Sudáfrica
+KP:
+  fr: Corée du Sud
+  en: South Korea
+  es: Corea del Sur
+ES:
+  fr: Espagne
+  en: Spain
+  es: España
+LK:
+  fr: Sri Lanka
+  en: Sri Lanka
+  es: Sri Lanka
+SD:
+  fr: Soudan
+  en: Sudan
+  es: Sudán
+SR:
+  fr: Suriname
+  en: Suriname
+  es: Suriname
+SZ:
+  fr: Swaziland
+  en: Swaziland
+  es: Swazilandia
+SE:
+  fr: Suède
+  en: Sweden
+  es: Suecia
+CH:
+  fr: Suisse
+  en: Switzerland
+  es: Suiza
+SY:
+  fr: Syrie
+  en: Syria
+  es: Siria
+TJ:
+  fr: Tadjikistan
+  en: Tajikistan
+  es: Tayikistán
+TZ:
+  fr: Tanzanie
+  en: Tanzania
+  es: Tanzanía
+TH:
+  fr: Thaïlande
+  en: Thailand
+  es: Tailandia
+TG:
+  fr: Togo
+  en: Togo
+  es: Togo
+TO:
+  fr: Tonga
+  en: Tonga
+  es: Tonga
+TT:
+  fr: Trinité-et-Tobago
+  en: Trinidad and Tobago
+  es: Trinidad y Tabago
+TN:
+  fr: Tunisie
+  en: Tunisia
+  es: Túnez
+TR:
+  fr: Turquie
+  en: Turkey
+  es: Turquía
+TM:
+  fr: Turkménistan
+  en: Turkmenistan
+  es: Turkmenistán
+TV:
+  fr: Tuvalu
+  en: Tuvalu
+  es: Tuvalu
+UG:
+  fr: Ouganda
+  en: Uganda
+  es: Uganda
+UA:
+  fr: Ukraine
+  en: Ukraine
+  es: Ucrania
+AE:
+  fr: Émirats arabes unis
+  en: United Arab Emirates
+  es: Emiratos Árabes Unidos
+GB:
+  fr: Royaume-Uni
+  en: United Kingdom
+  es: Reino Unido
+US:
+  fr: États-Unis
+  en: United States
+  es: Estados Unidos
+UY:
+  fr: Uruguay
+  en: Uruguay
+  es: Uruguay
+UZ:
+  fr: Ouzbékistan
+  en: Uzbekistan
+  es: Uzbekistán
+VU:
+  fr: Vanuatu
+  en: Vanuatu
+  es: Vanuatu
+VE:
+  fr: Venezuela
+  en: Venezuela
+  es: Venezuela
+VN:
+  fr: Viêt Nam
+  en: Vietnam
+  es: Viet Nam
+WS:
+  fr: Samoa occidentales
+  en: Western Samoa
+  es: Samoa
+YE:
+  fr: Yémen
+  en: Yemen
+  es: Yemen
+ZM:
+  fr: Zambie
+  en: Zambia
+  es: Zambia
+ZW:
+  fr: Zimbabwe
+  en: Zimbabwe
+  es: Zimbabwe
