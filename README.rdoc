@@ -1,0 +1,33 @@
+= CountryTools
+
+== Installation
+
+gem 'country_tools', :git => 'git://github.com/aurels/country_tools.git'
+
+== Supported languages
+
+- French
+- English
+- Spanish
+
+== Example
+
+Store only codes into you database.
+
+Get all possible country codes :
+
+    CountryTools.get_all_codes
+
+Get the name of a country by code [i18n aware] :
+
+    CountryTools.name('BE') #=> 'Belgium'
+
+Ask if a country is in CEE :
+
+    CountryTools.in_cee?('BE') #=> true
+
+Get options for a select (inside form_for) :
+
+    <%= f.select :country_code, CountryTools.options_for_select %> 
+
+Copyright (c) 2011 Aurélien Malisart, released under the MIT license
