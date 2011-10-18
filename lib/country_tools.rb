@@ -13,11 +13,13 @@ module CountryTools
   def self.options_for_select
     all_countries.collect do |code, names|
       [names[I18n.locale.to_s], code]
+    end.sort_by do |a, b|
+      a.first <=> b.first
     end
   end
   
   def self.all_codes
-    @@all_codes ||= all_countries.keys
+    @@all_codes ||= all_countries.keys.sort
   end
   
   def self.name(code)
