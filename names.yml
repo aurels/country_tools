@@ -250,6 +250,14 @@ GE:
   fr: Géorgie
   en: Georgia
   es: Georgia
+GI:
+  fr: Gibraltar
+  en: Gibraltar
+  es: Gibraltar
+GG:
+  fr: Guernesey
+  en: Guernsey
+  es: Guernsey
 DE:
   fr: Allemagne
   en: Germany
@@ -558,6 +566,10 @@ RO:
   fr: Roumanie
   en: Romania
   es: Rumania
+RS:
+  fr: Serbie
+  en: Serbia
+  es: Serbia
 RU:
   fr: Russie
   en: Russia
