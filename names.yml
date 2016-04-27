@@ -402,6 +402,10 @@ LU:
   fr: Luxembourg
   en: Luxembourg
   es: Luxemburgo
+MF:
+  fr: Saint Martin (partie française)
+  en: Saint Martin (French part)
+  es: San Martín (Francia)
 MK:
   fr: Macédoine
   en: Macedonia
@@ -622,6 +626,10 @@ SO:
   fr: Somalie
   en: Somalia
   es: Somalia
+SX:
+  fr: Saint-Martin (Royaume des Pays-Bas)
+  en: Sint Maarten (Dutch part)
+  es: Sint Maarten (Holandés)
 ZA:
   fr: Afrique du Sud
   en: South Africa
