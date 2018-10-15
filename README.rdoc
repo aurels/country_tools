@@ -28,6 +28,6 @@ Ask if a country is in CEE :
 
 Get options for a select (inside form_for) :
 
-    <%= f.select :country_code, CountryTools.options_for_select %> 
+    <%= f.select :country_code, CountryTools.options_for_select %>
 
-Copyright (c) 2011 Aurélien Malisart, released under the MIT license
+Copyright (c) 2011-2019 Aurélien Malisart, released under the MIT license
