@@ -4,10 +4,45 @@ module CountryTools
     @@all_countries ||= YAML.load(File.read(path))
   end
 
-  CEE_CODES = %w[ DE AT BE BG CY DK ES EE FI FR EL HU IE IT LV LT LU MT NL PL PT GB RO SK SI SE CZ ]
+  # https://en.wikipedia.org/wiki/European_Union
+  EU_CODES = [
+    'AT',       # Austria
+    'BE',       # Belgium
+    'BG',       # Bulgaria
+    'HR',       # Croatia
+    'CY',       # Cyprus
+    'CZ',       # Czech Republic
+    'DK',       # Denmark
+    'EE',       # Estonia
+    'FI',       # Finland
+    'FR',       # France
+    'DE',       # Germany
+    'GR', 'EL', # Greece (https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne#cite_ref-79)
+    'HU',       # Hungary
+    'IE',       # Ireland
+    'IT',       # Italy
+    'LV',       # Latvia
+    'LT',       # Lithuania
+    'LU',       # Luxembourg
+    'MT',       # Malta
+    'NL',       # Netherlands
+    'PL',       # Poland
+    'PT',       # Portugal
+    'RO',       # Romania
+    'SK',       # Slovakia
+    'SI',       # Slovenia
+    'ES',       # Spain
+    'SE',       # Sweden
+    'GB', 'UK', # United Kingdom (https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne#cite_ref-81)
+  ]
+
+  def self.in_eu?(code)
+    EU_CODES.include?(code)
+  end
 
   def self.in_cee?(code)
-    CEE_CODES.include?(code)
+    warn "[DEPRECATION] `in_cee?` is deprecated. Please use `in_eu?` instead."
+    in_eu?(code)
   end
 
   def self.options_for_select

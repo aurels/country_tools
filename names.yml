@@ -270,6 +270,10 @@ GR:
   fr: Grèce
   en: Greece
   es: Grecia
+EL: # https://www.quora.com/Why-is-Greeces-country-code-EL-in-the-European-Union-but-GR-everywhere-else
+  fr: Grèce
+  en: Greece
+  es: Grecia
 GD:
   fr: Grenade
   en: Grenada
@@ -751,6 +755,10 @@ AE:
   en: United Arab Emirates
   es: Emiratos Árabes Unidos
 GB:
+  fr: Royaume-Uni
+  en: United Kingdom
+  es: Reino Unido
+UK: # Though GB is the United Kingdom's ISO 3166-1 alpha-2 code, UK is exceptionally reserved for the United Kingdom on the request of the country. (https://en.wikipedia.org/wiki/ISO_3166-2:GB)
   fr: Royaume-Uni
   en: United Kingdom
   es: Reino Unido

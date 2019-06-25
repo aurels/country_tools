@@ -2,7 +2,7 @@
 
 == Installation
 
-    gem 'country_tools', :git => 'git://github.com/aurels/country_tools.git'
+    gem 'country_tools'
 
 == Supported languages
 
@@ -22,9 +22,9 @@ Get the name of a country by code [i18n aware] :
 
     CountryTools.name('BE') #=> 'Belgium'
 
-Ask if a country is in CEE :
+Ask if a country is in European Union :
 
-    CountryTools.in_cee?('BE') #=> true
+    CountryTools.in_eu?('BE') #=> true
 
 Get options for a select (inside form_for) :
 
