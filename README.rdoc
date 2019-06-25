@@ -2,7 +2,7 @@
 
 == Installation
 
-    gem 'country_tools', :git => 'git://github.com/aurels/country_tools.git'
+    gem 'country_tools'
 
 == Supported languages
 
