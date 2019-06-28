@@ -30,4 +30,11 @@ Get options for a select (inside form_for) :
 
     <%= f.select :country_code, CountryTools.options_for_select %>
 
-Copyright (c) 2011-2019 Aurélien Malisart, released under the MIT license
+== Contributors
+
+* Aurélien Malisart — https://phonoid.com
+* Michaël Hoste — https://80limit.com
+
+== License
+
+Copyright (c) 2011-2019 Aurélien Malisart, released under the MIT license.
