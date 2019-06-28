@@ -4,11 +4,11 @@ Gem::Specification.new do |s|
   s.description = "Country tools for Rails"
   s.homepage    = "http://github.com/aurels/country_tools"
 
-  s.version = "0.2"
-  s.date    = "2019-02-18"
+  s.version = "1.0"
+  s.date    = "2019-06-28"
 
   s.authors = ["Aurélien Malisart"]
-  s.email   = "aurelien.malisart@gmail.com"
+  s.email   = "aurelien@phonoid.com"
 
   s.require_paths    = ["lib"]
   s.files            = Dir["lib/**/*"] + ["README.rdoc", "Rakefile", "names.yml", "MIT-LICENSE"]
