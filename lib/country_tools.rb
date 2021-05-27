@@ -33,7 +33,6 @@ module CountryTools
     'SI',       # Slovenia
     'ES',       # Spain
     'SE',       # Sweden
-    'GB', 'UK', # United Kingdom (https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne#cite_ref-81)
   ]
 
   def self.in_eu?(code)
