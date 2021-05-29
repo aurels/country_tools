@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.description = "Country tools for Rails"
   s.homepage    = "http://github.com/aurels/country_tools"
 
-  s.version = "1.0"
-  s.date    = "2019-06-28"
+  s.version = "1.1"
+  s.date    = "2021-05-29"
 
   s.authors = ["Aurélien Malisart"]
   s.email   = "aurelien@phonoid.com"
